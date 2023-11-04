@@ -1,0 +1,9 @@
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/chunk/PersonItemWriter.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/model/Person.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/chunk/PersonItemProcessor.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/model/PersonInfo.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/chunk/PersonItemReader.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/JobCompletionNotificationListener.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/BatchConfiguration.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/model/Profession.java
+/home/borja/Workspace-IJ/batch-processor/demo/src/main/java/com/example/demo/BatchProcessorApplication.java
