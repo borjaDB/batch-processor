@@ -1,0 +1,9 @@
+com/example/demo/chunk/PersonItemReader.class
+com/example/demo/chunk/PersonItemWriter.class
+com/example/demo/JobCompletionNotificationListener.class
+com/example/demo/model/Person.class
+com/example/demo/BatchConfiguration.class
+com/example/demo/BatchProcessorApplication.class
+com/example/demo/chunk/PersonItemProcessor.class
+com/example/demo/model/Profession.class
+com/example/demo/model/PersonInfo.class
